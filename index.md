@@ -6,8 +6,8 @@ It is free to enter as a participant, and will be open to the public to taste fo
 
 There will be three age groups: 
  * _Adult_: ages 18 and over
- * _Junior_: ages 12 - 17 
- * _Youth_: ages under 12
+ * _Youth_: ages 12 - 17 
+ * _Junior_: ages under 12
  
 And prizes will be given for the following categories:
  * Hot
