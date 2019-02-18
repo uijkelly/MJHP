@@ -10,8 +10,8 @@ There will be three age groups:
  * _Youth_: ages under 12
  
 And prizes will be given for the following categories:
- * Cat 1, TBD
- * Cat 2, TBD
+ * Without beans
+ * With beans
  * People's Choice
  
 Our judges:
@@ -22,8 +22,7 @@ Our judges:
 Don't like chili? Come out anyway! We'll have an array of other food trucks, musicians and craft vendors. 
 
 ### Make Great Chili?
-
-[Register](https://goo.gl/forms/KA45I0mH3swxQDRR2){:target="_blank"} and enter your chili!
+[Sign up](https://goo.gl/forms/KA45I0mH3swxQDRR2){:target="_blank"} and enter your chili! Everything you need to know about the rules is here. Still have questions? Contact us at  
 
 ### Want to Eat Great Chili?
 The event will run from 10am - 4pm, with voting by the judges until 12:30pm, and People's Choice votes accepted until 2pm. Prizes to be awarded at 2:30pm. 
