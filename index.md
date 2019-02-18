@@ -21,13 +21,13 @@ Don't like chili? Come out anyway! We'll have an array of other food trucks, mus
 
 ### Make Great Chili?
 
-[Register](https://goo.gl/forms/KA45I0mH3swxQDRR2) and enter your chili!
+[Register](https://goo.gl/forms/KA45I0mH3swxQDRR2){:target="_blank"} and enter your chili!
 
 ### Want to Eat Great Chili?
 The event will run from 10am - 4pm, with voting by the judges until 12:30pm, and People's Choice votes accepted until 2pm. Prizes to be awarded at 2:30pm. 
 
 ### Want to be a vendor?
-[Sign up](https://goo.gl/forms/xq388GDcER551xXI2) to be a vendor! Spots are $20 a piece, with a $10 extra charge if you need an electric hookup. 
+[Sign up](https://goo.gl/forms/xq388GDcER551xXI2){:target="_blank"} to be a vendor! Spots are $20 a piece, with a $10 extra charge if you need an electric hookup. 
 
 ### About the MJHP
 We are a group of citizens who plan events, promote local businesses and foster a sense of community in Mt. Jackson, Virginia. Formal website and contact information is forthcoming!
