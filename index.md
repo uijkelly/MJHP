@@ -31,4 +31,4 @@ The event will run from 10am - 4pm, with voting by the judges until 12:30pm, and
 [Sign up](https://goo.gl/forms/xq388GDcER551xXI2){:target="_blank"} to be a vendor! Spots are $20 a piece, with a $10 extra charge if you need an electric hookup. 
 
 ### About the MJHP
-We are a group of citizens who plan events, promote local businesses and foster a sense of community in Mt. Jackson, Virginia. Formal website and contact information is forthcoming!
+We are a group of citizens, business persons and local officials who plan events, promote local businesses and foster a sense of community in Mt. Jackson, Virginia. Formal website and contact information is forthcoming!
