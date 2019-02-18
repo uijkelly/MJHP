@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Mount Jackson Hometown Partnership
 
-You can use the [editor on GitHub](https://github.com/uijkelly/MJHP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Mount Jackson Hometown Partnership is proud to sponsor the 1st Annual Mt Jackson Chili Cookoff on March 23, 2019! It is free to enter as a participant. Open to the public to taste for just $5. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There will be three age groups: 
+ * _Adult_: ages 18 and over
+ * _Junior_: ages 12 - 17 
+ * _Youth_: ages under 12
+ 
+And prizes will be given for the following categories:
+ * Cat 1, TBD
+ * Cat 2, TBD
+ * People's Choice
+ 
+Our judges:
+ * Mayor Bucky Miller
+ * Judge 2
+ * Judge 3
 
-### Markdown
+Don't like chili? Come out anyway! We'll have an array of other food trucks, musicians and craft vendors. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Make Great Chili?
 
-```markdown
-Syntax highlighted code block
+[Register](https://goo.gl/forms/KA45I0mH3swxQDRR2) and enter your chili!
 
-# Header 1
-## Header 2
-### Header 3
+### Want to Eat Great Chili?
+The event will run from 10am - 4pm, with voting by the judges until 12:30pm, and People's Choice votes accepted until 2pm. Prizes to be awarded at 2:30pm. 
 
-- Bulleted
-- List
+### Want to be a vendor?
+[Sign up](https://goo.gl/forms/xq388GDcER551xXI2) to be a vendor! Spots are $20 a piece, with a $10 extra charge if you need an electric hookup. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uijkelly/MJHP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### About the MJHP
+We are a group of citizens who plan events, promote local businesses and foster a sense of community in Mt. Jackson, Virginia. Formal website and contact information is forthcoming!
