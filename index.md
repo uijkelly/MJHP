@@ -1,6 +1,8 @@
 ## Mount Jackson Hometown Partnership
 
-The Mount Jackson Hometown Partnership is proud to sponsor the 1st Annual Mt Jackson Chili Cookoff on March 23, 2019! It is free to enter as a participant. Open to the public to taste for just $5. 
+The Mount Jackson Hometown Partnership is proud to sponsor the 1st Annual Mt Jackson Chili Cookoff on March 23, 2019! 
+
+It is free to enter as a participant, and will be open to the public to taste for just $5. 
 
 There will be three age groups: 
  * _Adult_: ages 18 and over
